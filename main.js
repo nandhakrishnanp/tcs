@@ -22,8 +22,8 @@ inputs.forEach(input=>{
 })
 
 // Dummy data
-const USER_VEHICLE_CODE = "tcs123";
-const USER_KEY = "pass";
+const USER_VEHICLE_CODE = "tcu123";
+const USER_KEY = "123";
 
 document.addEventListener("DOMContentLoaded", function() {
     const form = document.querySelector("form");
