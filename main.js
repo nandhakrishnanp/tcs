@@ -22,7 +22,7 @@ inputs.forEach(input=>{
 })
 
 // Dummy data
-const USER_VEHICLE_CODE = "tcu123";
+const USER_VEHICLE_CODE = "Tcu123";
 const USER_KEY = "1234";
 
 document.addEventListener("DOMContentLoaded", function() {
