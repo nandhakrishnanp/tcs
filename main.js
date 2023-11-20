@@ -6,7 +6,7 @@ function addfocus(){
     let parent = this.parentNode.parentNode
     parent.classList.add("focus")
 }
-
+//// full course git
 /*=== Remove focus ===*/
 function remfocus(){
     let parent = this.parentNode.parentNode
