@@ -16,4 +16,4 @@ function updateEngineTemperature() {
 }
 
 // Update the engine temperature every 2 seconds
-setInterval(updateEngineTemperature, 1000);
+setInterval(updateEngineTemperature, 2000);
